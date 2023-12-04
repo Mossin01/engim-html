@@ -1,0 +1,36 @@
+:root{
+   --bg-nav: yellow; 
+}
+
+/* selettore tag */
+nav {
+
+    background-color: aqua;
+}
+main{
+    background-color: blueviolet;
+}
+aside {
+    background-color: brown;
+}
+/* selettore classe */
+.primo{
+    background-color: chartreuse;
+       width: 200px;
+       height: 100px;
+}
+.secondo {
+    background-color: darkblue;
+    width: 200px;
+    height: 100px;
+
+}
+.terzo {
+    background-color: chocolate;
+    width: 200px;
+    height: 100px;
+
+}
+div {
+    background-color: black;
+}
